@@ -14,6 +14,7 @@
   "tags": ["tty", "terminal", "term", "xterm"],
   "dependencies": {
     "express": "3.4.4",
+    "client-certificate-auth": "0.3.0",
     "socket.io": "0.9.16",
     "pty.js": "0.2.4",
     "term.js": "0.0.3"
